@@ -2,7 +2,7 @@
 
 <br>
  
-![cert](patrick-kyei-project-management-cert.jpeg)
+![cert](Nagendra-Verma-project-management-cert.jpeg)
 
 - This repository is written for reference and self-documentation purposes
 
